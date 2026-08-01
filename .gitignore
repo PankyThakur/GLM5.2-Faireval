@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+
+# Private eval dataset — not published; see README for how to supply your own.
+questions.py
+results_*.json
